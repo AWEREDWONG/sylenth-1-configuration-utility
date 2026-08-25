@@ -1,0 +1,7 @@
+# Generated on 2026-11-05   
+src/*.ts linguist-detectable
+*.htm linguist-vendored
+yarn.lock linguist-generated   
+src/**/*.ts linguist-detectable
+Cargo.lock linguist-generated
+public/* linguist-vendored
